@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Luas Tabung</string>
+    <string name="Luas_permukaan_tabung_tanpa_tutup">Luas permukaan tabung Tanpa Tutup</string>
+    <string name="Tinggi">Tinggi</string>
+    <string name="Masukan_Tinggi">Masukan tinggi</string>
+    <string name="Jari_jari">Jari jari</string>
+    <string name="Masukan_jari_jari">Masukan jari jari</string>
+    <string name="Hitung">Hitung</string>
+    <string name="Dibuat_oleh">Dibuat Oleh</string>
+</resources>
